@@ -1,0 +1,14 @@
+-------------------------------
+Script run on: Wed Oct 23 11:00:01 UTC 2024
+-------------------------------
+List EC2 Instances
+"i-0ba3360264764eb2e"
+List S3 buckets
+{
+    "Functions": []
+}
+List IAM Users
+{
+    "Users": []
+}
+Script executed at: Wed Oct 23 11:00:05 UTC 2024
